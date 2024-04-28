@@ -5,5 +5,8 @@
 /* Lists */
 
 li {
-    list-style-type: circle;
+    list-style-type: disc;
+    list-style-position: outside;
+    margin-bottom: 16;
+    margin-left: 25;
 }
